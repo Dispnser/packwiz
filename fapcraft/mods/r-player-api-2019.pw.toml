@@ -1,0 +1,13 @@
+name = "R.Player API 2019"
+filename = "RenderPlayerAPI-1.12.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f8f26e5995f770018539398b94d6ac863fd9b8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2808604
+project-id = 347781

@@ -1,0 +1,13 @@
+name = "Powered Thingies"
+filename = "powered-thingies-1.12.2-1.0.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a33750a36a3ed324a37f139bf467664f241f068"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2556740
+project-id = 264283

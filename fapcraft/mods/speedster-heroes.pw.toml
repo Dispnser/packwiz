@@ -1,0 +1,13 @@
+name = "Speedster Heroes"
+filename = "SpeedsterHeroes-1.12.2-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34d3fa47c7a8469fe70c54413ab53d5db6aa5007"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2996769
+project-id = 252318

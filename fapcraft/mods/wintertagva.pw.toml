@@ -1,0 +1,13 @@
+name = "WinterTAGVA"
+filename = "WinterTAGVA-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68966c867c430d18c88ced22897e161fd7bb4aeb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2833339
+project-id = 352838

@@ -1,0 +1,13 @@
+name = "Arkif's Hoverboard Mod"
+filename = "Arkif'sHoverboardMod-1.12.2-0.4.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "117893e264e4c8558537c435060ce46ed33f755d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3537249
+project-id = 359995

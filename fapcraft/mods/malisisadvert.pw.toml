@@ -1,0 +1,13 @@
+name = "MalisisAdvert"
+filename = "malisisadvert-1.12.2-6.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71ee1fb1d9c0ce1519114de97963add4cf9ebbe3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2526685
+project-id = 228722

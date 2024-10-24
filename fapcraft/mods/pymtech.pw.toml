@@ -1,0 +1,13 @@
+name = "PymTech"
+filename = "PymTech-1.12.2-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "475e797fed9543be486f1a4590dc3dd47f7d169f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2706385
+project-id = 316946
