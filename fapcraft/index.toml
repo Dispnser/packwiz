@@ -1,0 +1,241 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/arkifs-hoverboard-mod.pw.toml"
+hash = "2a4ce50fb72bd51d350860e0139b1216ff6b2cc1e26cfa32305989b7d426c84e"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "46dcc28562b736d102a6c71bfcefa4ea146b132f3effef5536c5e0e995a71496"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "2acbe0f770a8303ecea88bc3ceef4ea6f76cb69206f15229647fb4773f0d9198"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "7e83c30351673c4e992a3894c34b49c9cd9ef585ddf6ff21d5f10c05255b7638"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "a0b9178824a6998223027dbca140b3652300a9140c7ed908db5508c9f4af1902"
+metafile = true
+
+[[files]]
+file = "mods/fapcraft.pw.toml"
+hash = "d2f15f0a83fd9524992daf785da77ca9396659470ffe57e5d2b302362562119a"
+metafile = true
+
+[[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "a9fa720cb799b8a70ad7411c16c8c61b87883fffba58117ecd3e7976f18c4f40"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-forge.pw.toml"
+hash = "6aab174b12e2335e589aae9136ef5aecdfd1805b5930830d9ce378ae41abd9e3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-legacy-forge.pw.toml"
+hash = "1d53ed109e79b01c25b437db44da5976f22ca866e3d0dc286fadb96511e1a123"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "98ce0745c39570074e48d503da5fd3f97952ac3f7fcccc363365f08295c41e6e"
+metafile = true
+
+[[files]]
+file = "mods/galacticraft-legacy.pw.toml"
+hash = "520e59a5eb106b7f58227e00b5c605ad2f24a20ebaf870dbe91ecb7086b4e42c"
+metafile = true
+
+[[files]]
+file = "mods/general-laymans-aesthetic-spying-screen-glass.pw.toml"
+hash = "ae864551a585713791cd2be7bcd418ed3011b4eca3b023d804a6b5c53388ecf9"
+metafile = true
+
+[[files]]
+file = "mods/heroesexpansion.pw.toml"
+hash = "6661e8feb7b6f674a6704b5cd7f5bb92c1c97e9fc35ed8bcee49c6da83317fa8"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-dragons.pw.toml"
+hash = "c02a635932d30d1b3f07073d472e3127ee771675781cc05f6e66a696b1372526"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "e84b408fe657d70ce1292d146ebfa510843327453d245d5694de3a434ad482bd"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
+metafile = true
+
+[[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "62eed40453a0d4a50f56ab3d896035ffdc6cc9c50de358747f356f88e23d81e4"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "0ba55fd99ac0137f56065daa7a870b254e3711ab0453b2b2dd161569cb6f5d23"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "fdc7c16deef289a8b6089d5eab3c6957f64650d2792d5e2398b8e4cf239cfbd4"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "89d76a6016fd19cdb06f677ce4c678e1eea307d3a2a39fd4e9b532dd45acb7c7"
+metafile = true
+
+[[files]]
+file = "mods/llibrary.pw.toml"
+hash = "780f849666ae2b08a782a5d9571a3fe17d0ede5b65ffb3d2622419e8dd6b35ab"
+metafile = true
+
+[[files]]
+file = "mods/lucraft-core.pw.toml"
+hash = "f8769b779556a763c6291358a2fdc82b8e7e573d9e39aa9d1ba45ff488853490"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "f72aef7126bc4ebbb4c6df9b319908588be9067c2b47410e4e5fe85d847b2a09"
+metafile = true
+
+[[files]]
+file = "mods/malisisadvert.pw.toml"
+hash = "928d91421365d850a99cde5dd449aa3fec0749e11b8dcd22e09f1b99d5aa4793"
+metafile = true
+
+[[files]]
+file = "mods/malisisblocks.pw.toml"
+hash = "42419f6532190ceaad8f17e15c95c81ccabce40c6c7015d8ac2679d1468c58cd"
+metafile = true
+
+[[files]]
+file = "mods/malisiscore.pw.toml"
+hash = "30c772d502232b689f11c6cb4740238a4db1e656a21291c307a08f346ca1bd6c"
+metafile = true
+
+[[files]]
+file = "mods/malisisdoors.pw.toml"
+hash = "186416dfcddfb41fe0ecd15bfafc67aec937c36e5dbac496386c9a480d2eb294"
+metafile = true
+
+[[files]]
+file = "mods/matter-overdrive-community-edition.pw.toml"
+hash = "1e14ae5ecf397147330d8a12d38f13559e70339b3da097b9284fd4ddaf4f6435"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-ce-generators.pw.toml"
+hash = "40f4d39833f7e9023ed3721c694bac01223856a4b1d20946c31acdce1e982f02"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-ce-tools.pw.toml"
+hash = "a7795af3188a45bf5cca383f3cd2b453ed8e12393740bb9b17f7b67ecb89f2f6"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-ce.pw.toml"
+hash = "040412158a9faade0de26ac56d3da485b4c2c5221267889e6d90856f502d2fbb"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "105fc73e223d1a9ef35ec2b37aefabb2f1b95dea81d52f2147702771c9042a33"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.pw.toml"
+hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "ae9b5814a439a9c6ce570119e57e7a12e354951f701d98dfa3cb18045cdefcd4"
+metafile = true
+
+[[files]]
+file = "mods/modern-warfare-cubed.pw.toml"
+hash = "78b43a717eac2dcdbd115077010e1303ace4257c44e2d5091a1d09a12bd9da2c"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "03fa6aa4c44799b68f9f544d2ba1de8327acef11a6a405572125e93a474b7bcd"
+metafile = true
+
+[[files]]
+file = "mods/powered-thingies.pw.toml"
+hash = "2e9766f9b6c616a3fc1ed19b7868b2c31b1484f234df107b8fdaa70179a73c92"
+metafile = true
+
+[[files]]
+file = "mods/pymtech.pw.toml"
+hash = "098157527c018e99c4c8446d199615af1c3946eea6b26ef487631dab6f226846"
+metafile = true
+
+[[files]]
+file = "mods/r-player-api-2019.pw.toml"
+hash = "92171ee681f9366a723bf8ef374eb1c709267f77f43d8f90b02a812fa8bf5d71"
+metafile = true
+
+[[files]]
+file = "mods/red-core.pw.toml"
+hash = "a6f25081409a7bb9f0a9832ab2d6591de43ebb1f3ed69f85fbc39927f595cd06"
+metafile = true
+
+[[files]]
+file = "mods/redstone-flux.pw.toml"
+hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "e6233e2d6431a545402f5fa0781eb5328783af4b23a2d454aa89965a6005c09e"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
+file = "mods/speedster-heroes.pw.toml"
+hash = "401c74cb58da547f4a307d2cdb578b5674535c1b21c10476d81507c07a4c1334"
+metafile = true
+
+[[files]]
+file = "mods/tesla-core-lib.pw.toml"
+hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
+metafile = true
+
+[[files]]
+file = "mods/wintertagva.pw.toml"
+hash = "3f50881e47e6a2a707771215cb9b1c633f007d8bb74ea2e0da0fd270f84c1540"
+metafile = true
