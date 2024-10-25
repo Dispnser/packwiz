@@ -176,11 +176,6 @@ hash = "ae9b5814a439a9c6ce570119e57e7a12e354951f701d98dfa3cb18045cdefcd4"
 metafile = true
 
 [[files]]
-file = "mods/modern-warfare-cubed.pw.toml"
-hash = "78b43a717eac2dcdbd115077010e1303ace4257c44e2d5091a1d09a12bd9da2c"
-metafile = true
-
-[[files]]
 file = "mods/opencomputers.pw.toml"
 hash = "03fa6aa4c44799b68f9f544d2ba1de8327acef11a6a405572125e93a474b7bcd"
 metafile = true
